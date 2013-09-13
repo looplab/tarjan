@@ -14,6 +14,8 @@ http://en.wikipedia.org/wiki/Tarjan’s_strongly_connected_components_algorithm
 Based on an implementation by Gustavo Niemeyer (in mgo/txn):
 http://bazaar.launchpad.net/+branch/mgo/v2/view/head:/txn/tarjan.go
 
+Gustavo Niemeyer: http://labix.org
+
 For API docs and examples see http://godoc.org/github.com/looplab/tarjan
 
 ## Example
