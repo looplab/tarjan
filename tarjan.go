@@ -13,7 +13,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-// package tarjan implements a graph loop detection algorithm called Tarjan's algorithm.
+// Package tarjan implements a graph loop detection algorithm called Tarjan's algorithm.
 //
 // The algorithm takes a input graph and produces a slice where each item is a
 // slice of strongly connected vertices. The input graph is in form of a map

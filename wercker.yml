@@ -12,6 +12,8 @@ build:
     - wercker/setup-go-workspace:
       package-dir: github.com/looplab/tarjan
 
+    - wercker/golint
+
     - script:
         name: go get
         code: |
