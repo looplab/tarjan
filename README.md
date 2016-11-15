@@ -1,6 +1,7 @@
 [![wercker status](https://app.wercker.com/status/78c21e65a51c7d938faf021bd3220916/s "wercker status")](https://app.wercker.com/project/bykey/78c21e65a51c7d938faf021bd3220916)
 [![Coverage Status](https://img.shields.io/coveralls/looplab/tarjan.svg)](https://coveralls.io/r/looplab/tarjan)
 [![GoDoc](https://godoc.org/github.com/looplab/tarjan?status.svg)](https://godoc.org/github.com/looplab/tarjan)
+[![Go Report Card](https://goreportcard.com/badge/looplab/tarjan)](https://goreportcard.com/report/looplab/tarjan)
 
 
 # Tarjan
