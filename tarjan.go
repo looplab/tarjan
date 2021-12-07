@@ -63,7 +63,7 @@ type node struct {
 	stacked bool
 }
 
-// strongConnect runs Tarjan's algorithm recursivley and outputs a grouping of
+// strongConnect runs Tarjan's algorithm recursively and outputs a grouping of
 // strongly connected vertices.
 func (data *data) strongConnect(v interface{}) *node {
 	index := len(data.nodes)
